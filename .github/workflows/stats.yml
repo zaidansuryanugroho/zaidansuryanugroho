@@ -1,0 +1,29 @@
+name: Update Stats Card
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # jalan tiap hari jam 3 pagi UTC
+  workflow_dispatch: {}    # bisa dipicu manual dari tab Actions
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: 'username=${{ github.repository_owner }}&show_icons=true&theme=dark'
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push hasilnya
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update stats card [skip ci]"
+          file_pattern: profile/stats.svg
