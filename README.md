@@ -16,16 +16,12 @@ Math undergrad (IPB University) yang juga desainer. Nyambungin logika + kreativi
 ## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%23888888&width=20" /> Stats
 ![GitHub Stats](profile/stats.svg)
 
-*(gambar ini baru muncul setelah workflow stats.yml jalan minimal 1x — lihat instruksi di bawah)*
-
 ## <img src="https://api.iconify.design/lucide:terminal.svg?color=%23888888&width=20" /> Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zaidansuryanugroho/zaidansuryanugroho/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zaidansuryanugroho/zaidansuryanugroho/output/github-contribution-grid-snake.svg" />
   <img alt="snake" src="https://raw.githubusercontent.com/zaidansuryanugroho/zaidansuryanugroho/output/github-contribution-grid-snake.svg" />
 </picture>
-
-*(gambar ini baru muncul setelah workflow snake.yml jalan minimal 1x — lihat instruksi di bawah)*
 
 ## <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%23888888&width=20" /> Repo Ini Ngapain
 | Repo | Buat apa |
