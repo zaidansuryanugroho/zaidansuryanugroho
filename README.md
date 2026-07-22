@@ -1,6 +1,6 @@
 # Hi, I'm Zaidan 👋
 
-Math undergrad (IPB University) yang juga desainer. Nyambungin logika + kreativitas + AI — repo ini bukti jalan, bukan pameran buat orang lain.
+Math undergrad (IPB University) yang juga desainer. Nyambungin logika + kreativitas + AI repo ini bukti jalan, bukan pameran buat orang lain.
 
 ## <img src="https://api.iconify.design/lucide:hammer.svg?color=%23888888&width=20" /> Lagi Dikerjain
 - Bangun **Solusi Grafis** — agensi kreatif untuk UMKM, arah ke depan jadi digital product studio
@@ -8,7 +8,7 @@ Math undergrad (IPB University) yang juga desainer. Nyambungin logika + kreativi
 - Belajar frontend dasar: HTML, CSS, PHP
 
 ## <img src="https://api.iconify.design/lucide:code.svg?color=%23888888&width=20" /> Tools
-![Skills](https://skillicons.dev/icons?i=figma,ps,ae,html,css,php,py,notion,obsidian,vercel)
+![Skills](https://skillicons.dev/icons?i=figma,ps,ae,html,css,py,notion,obsidian,vercel)
 
 ## <img src="https://api.iconify.design/lucide:flame.svg?color=%23888888&width=20" /> Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=zaidansuryanugroho&theme=dark&hide_border=true&background=0D1117)
